@@ -1,5 +1,6 @@
 # These visualizations aims to analyse job education demographics and provide greater insights on the job propects of higher education.
 #### Data - Kaggle 2021 Survey
+#### Thanks to - garyong (Kaggle)
 
 ## Que - How old are the people on Kaggle?
 
