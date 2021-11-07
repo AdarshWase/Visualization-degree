@@ -24,4 +24,4 @@
 
 ![Top 20 Favorite Artists](https://github.com/AdarshWase/Visualization-degree/blob/main/blob/data%20eng.jpg)
 
-## Yes, I also believe that higher studies are important to become a Data Scientist or ML Engineer because these are research oriented fields.
+## Yes, I also believe that higher studies are important to become a Data Scientist or ML Engineer because these are research fields.
